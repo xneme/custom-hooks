@@ -1,6 +1,6 @@
 ## usage
 
-Run _npm install_ to install all the dependencies.
+Install all the dependencies with _npm install_.
 
 Start backend to port 3005 with _npm run server_
 
